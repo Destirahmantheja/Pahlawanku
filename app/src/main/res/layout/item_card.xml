@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="6dp"
-        android:background="#0AF60000">
+        android:background="#61000000">
 
         <ImageView
             android:id="@+id/iv_foto"
